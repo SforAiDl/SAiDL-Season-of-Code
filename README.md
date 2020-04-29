@@ -5,7 +5,7 @@ We invite applications for the following projects from (1st/2nd/3rd) year studen
 ## Projects
 ### 1. Deep Contextual Bandits
 #### Description
-Contextual Bandits are a subset of algorithms in Reinforcement Learning which aim at optimization in content personalization using user data. Due to their extremely low compute, memory requirements and scalibilty, they're used on device at the "edge" like mobile phones to massive service products like Azure. There are a lot of limitations of these algorithms. The project aims at trying to alleviate these problems and solving much more complex problems by augmenting these Bandit algorithms with Deep Networks.
+Contextual Bandits are a subset of algorithms in Reinforcement Learning which aim at optimization in content personalization using user data. Due to their extremely low compute, memory requirements and scalibilty, they're used on device at the "edge" like mobile phones to massive service products like Azure. There are a lot of limitations of these algorithms though. The project aims at trying to understand these algorithms and possibly alleviate these problems(e.g. solving much more complex problems by augmenting these Bandit algorithms with Deep Networks).
 #### Deliverables
 A good amount of understanding of the core algorithms which are used in the industry. A short term goal would be Open Source package developments. An achievable long term goal could be publication(s) in OSS conferences/journals and in exceptional cases Machine Learning workshops/conferences.
 #### Mentor
