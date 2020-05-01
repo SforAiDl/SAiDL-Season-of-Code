@@ -34,3 +34,14 @@ A repository which will contain all the major implementations of Knowledge Disti
 Any contributing member can expect good understanding of existing architectures in various domains like CV, NLP. Initially we will aim to implement various papers. Moving forward we might come up with some new techniques for Knowledge Distillation on some of the newer architechtures. 
 #### Mentor 
  - Het Shah
+ 
+ ### 5. Twitter Feed Distillation
+#### Description 
+Currently, a user's feed on Twitter displays virtually every tweet from every person the user follows. Due to this, the size of the user's daily feed scales linearly with the number of people he/she follows, which could result in missing important internship, conference deadlines, job opportunities, news etc. due to a very large number of tweets in the feed.
+This project involves building a system to scrape a certain number of tweets daily that the user is likely to be interested in at a certain period of time. User's interest in topics will be implicitly determined by the kind of tweets liked or retweeted in the recent past.
+
+#### Deliverables 
+This project involves applying recent research in NLP for a practical solution, thereby providing contributors with experience in implementing research as well as practical skills such as web scraping, information retrieval and open source.
+
+#### Mentor 
+ - Ajay Subramanian
