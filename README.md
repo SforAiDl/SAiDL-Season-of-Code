@@ -16,3 +16,12 @@ We are aiming to build a lite python package to perform transforms on speech and
 Any contributing member can expect good open-source and advanced NLP related experience on his/her profile. For the initial stage of the work, we are aiming for implementing some easy survey papers on Adversarial NLP. For a long-term , we might come up with our own analysis and techniques, pushing the work towards a dataset/resources related platform (Ex: LREC conference)
 #### Mentor
  - Rajaswa Patil
+ 
+### 3. Computer Vision for Sports Analytics 
+#### Description
+Ever looked at the post-match analysis of a Champions League Final or a Cricket World Cup Final and wondered whether a computer would be able to perform that automatically on its own? Sports Analytics through Deep Learning aims to do something just like that. Nowadays a significant amount of money is invested by the top teams of every major sport, from football to basketball, on analytics to improve the on-field performance of the team. Academies use these analytics to help their players analyze their mistakes, understand opposition gameplay and train better. This project aims to apply deep learning methods to perform a similar kind of analysis from sports videos and obtain optimal results.
+#### Deliverables
+Experience in understanding, fine-tuning, and implementing cutting-edge Computer Vision models, especially in the comparatively less explored field of videos. Our aim here is to build a general-purpose library with different frameworks for different sports, so you will also gain experience in open source development. 
+#### Mentor
+ - Ashwin Vaswani
+ - Rijul Ganguly
