@@ -25,3 +25,11 @@ Experience in understanding, fine-tuning, and implementing cutting-edge Computer
 #### Mentor
  - Ashwin Vaswani
  - Rijul Ganguly
+ 
+### 4. Knowledge Distillation library
+#### Description 
+A repository which will contain all the major implementations of Knowledge Distillation on various architectures like ResNet, FasterRCNN, and many more and combining KD with other model compression techniques like Quantization and Pruning. This repo also aims to contation all major implementations of Knowledge Distillation in some other fields like Defense from Adversarial attacks using Defensive Distillation. 
+#### Deliverables 
+Any contributing member can expect good understanding of existing architectures in various domains like CV, NLP. Initially we will aim to implement various papers. Moving forward we might come up with some new techniques for Knowledge Distillation on some of the newer architechtures. 
+#### Mentor 
+ - Het Shah
