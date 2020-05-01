@@ -35,7 +35,7 @@ Any contributing member can expect good understanding of existing architectures 
 #### Mentor 
  - Het Shah
  
- ### 5. Twitter Feed Distillation
+### 5. Twitter Feed Distillation
 #### Description 
 Currently, a user's feed on Twitter displays virtually every tweet from every person the user follows. Due to this, the size of the user's daily feed scales linearly with the number of people he/she follows, which could result in missing important internship, conference deadlines, job opportunities, news etc. due to a very large number of tweets in the feed.
 This project involves building a system to scrape a certain number of tweets daily that the user is likely to be interested in at a certain period of time. User's interest in topics will be implicitly determined by the kind of tweets liked or retweeted in the recent past.
