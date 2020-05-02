@@ -45,3 +45,13 @@ This project involves applying recent research in NLP for a practical solution, 
 
 #### Mentor 
  - Ajay Subramanian
+
+### 6. Benchmarking Causal inference and Reinforcement learning algorithms on dynamic environments 
+#### Description
+Over the past year, we have witnessed a handful of influential libraries and simulation environments focused on accelerating research in causal ML and reinforcement learning. [WhyNot](https://github.com/zykls/whynot) is one such package which will help us compare various RL algortithms on complex sequential decision making environments, more over it includes interesting environments like the HIV simulator which works well with the OpenAI gym. First subtask would be to extend the ideas similar to policy gradient [implementation](https://github.com/zykls/whynot/blob/master/examples/reinforcement_learning/hiv_simulator.ipynb) on HIV simulator and benchmark more policy based and value based algorithms on such environments. For that one may refer to [Spinning Up](https://spinningup.openai.com/en/latest/index.html) or even a [library](https://github.com/SforAiDl/JigglypuffRL) SAiDL has been working on. Having benchmarked and finetuned these algorithms on multiple environments, we can bring in more insight from causal ML approaches using libraries such as [DoWhy](https://github.com/microsoft/dowhy) by Microsoft and [CausalML](https://github.com/uber/causalml) by Uber.
+
+#### Deliverables
+Any contributing member will get practical experience of working on deep reinforcement learning algorithms on challenging environments with low compute requirements. A complete benchmarking of results would also be student abstract (publication/poster) worthy.
+
+#### Mentor
+ - Pranav Mahajan, Sharad Chitlangia
