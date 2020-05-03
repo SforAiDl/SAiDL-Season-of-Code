@@ -42,7 +42,7 @@ This project involves building a system to scrape a certain number of tweets dai
 This project involves applying recent research in NLP for a practical solution, thereby providing contributors with experience in implementing research as well as practical skills such as web scraping, information retrieval and open source.
 
 #### Mentor 
- - Ajay Subramanian
+ - Ajay Subramanian, Aditya Ahuja
 
 ### 6. Benchmarking Causal inference and Reinforcement learning algorithms on dynamic environments 
 #### Description
