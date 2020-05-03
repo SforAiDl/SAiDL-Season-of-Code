@@ -1,5 +1,3 @@
-We invite applications for the following projects from (1st/2nd/3rd) year students. Chosen students will get to work closely in a research environment with high development through Open Source Software. 
-
 ## Projects
 
 ### 1. Open Source python package Adversarial NLP 
