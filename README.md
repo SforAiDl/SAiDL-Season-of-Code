@@ -64,3 +64,16 @@ Due to the largely research oriented nature of the project, the end deliverables
 
 #### Mentors
  - Souradeep Chakraborty, Ayush Aaryan, Aditya Aryan 
+ 
+### 8. Exploring Applications of Spiking Neural Networks
+#### Description
+Spiking Neural Networks (SNNs) are regarded as the third generation of Neural Networks.  SNNs, inspired by the working of the brain, are more biologically plausible than Artificial Neural Networks (ANNs). Neurons in SNNs use spikes to communicate which are discrete events in time rather than continuous. These spikes contain information as the absolute or relative time of spiking of a neuron.  
+In this project, we will explore different applications of SNNs-
+1. Computer Vision: Basic image recognition tasks on datasets [MNIST](http://yann.lecun.com/exdb/mnist/), [N-MNIST](https://www.garrickorchard.com/datasets/n-mnist) and [N-Caltech 101](https://www.garrickorchard.com/datasets/n-caltech101).
+2. Audio Processing and more..  
+
+#### Deliverables
+Contributing members will get an introduction and practical experience to computational neuroscience, neuromorphic computing, AI and Open Source Development. The final goal of the project is publication(s) depending on the results.
+
+#### Mentors
+ - Alish Dipani, Mehul Rastogi
