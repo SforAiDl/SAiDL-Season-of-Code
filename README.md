@@ -63,7 +63,7 @@ This project aims at amending this lacking in the research & development world.
 Due to the largely research oriented nature of the project, the end deliverables might vary based on the progress, with a research paper documenting the approaches and reviewing the related literature being the bare minimum.
 
 #### Mentors
- - Souradeep Chakraborty, Ayush Aaryan, Aditya Aryan 
+ - Souradeep Chakraborty
  
 ### 8. Exploring Applications of Spiking Neural Networks
 #### Description
