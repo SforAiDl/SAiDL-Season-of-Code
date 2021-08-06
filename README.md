@@ -2,7 +2,7 @@
 
 ## Getting involved
 
-Project descriptions and sing up form coming soon. Stay tuned!
+Project descriptions and sign up form coming soon. Stay tuned!
 
 ## Projects
 
