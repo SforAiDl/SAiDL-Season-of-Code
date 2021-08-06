@@ -1,6 +1,6 @@
 # SAiDL Season of Code 2021 Edition
 
-## Sign up
+## Getting involved
 
 Project descriptions and sing up form coming soon. Stay tuned!
 
