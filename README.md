@@ -1,4 +1,4 @@
-# SAiDL Season of Code 2021 Edition
+# SAiDL Season of Code 2021
 
 ## Getting involved
 
