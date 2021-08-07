@@ -38,6 +38,7 @@ JAX is a Python framework with near identical API to NumPy with three key charac
 This project aims to implement various Meta Learning methods that have been proposed in the past decades (the basic idea is much older though!) and benchmark them on few-shot learning tasks.  Contributors will be introduced to basic methods in Meta Learning as well as the JAX framework and will work towards building a modular extensible and well documented library of these methods. 
 #### Mentors
  - Vedant Shah, Atharv Sonwane, Sharad Chitlangia
+
 ---
 
 ## Previous Editions
