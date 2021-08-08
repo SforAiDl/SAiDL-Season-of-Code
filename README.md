@@ -26,6 +26,7 @@ Visualizing a deep model’s working can offer a peek into what the model consid
 
 Depending on the progress, visualization methods for CNNs and the recently introduced MLP-Mixer architecture can be added as well to develop a complete little computer vision visualization library. 
 #### Goals
+Participants will learn about self attention and transformer architectures - methods which are at the heart of a lot of computer vision research these days. Contributors will work towards developing an open-source PyTorch library which contains implementations of vision transformers and makes their visualization methods easy-to-use. 
 #### Mentors
  - Neelay Shah, Sampreet Arthi, Shrey Pandit
 
