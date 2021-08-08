@@ -40,6 +40,16 @@ This project aims to implement various Meta Learning methods that have been prop
 #### Mentors
  - Vedant Shah, Atharv Sonwane, Sharad Chitlangia
 
+### 5. Adversarial Deep Learning
+#### Description
+Despite the great success of deep neural networks have been repeatedly shown to be adversarially vulnerable, Adversarial Deep Learning is a book being written by [Dr. Di Jin](https://scholar.google.com/citations?user=x5QTK9YAAAAJ&hl=en), [Dr. Yifang Yin](https://yifangyin.github.io/), [Yaman Kumar](https://sites.google.com/view/yaman-kumar/), and [Dr. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn), which gives the reader an introduction to the progress made in this field. We are building the codebase of these algorithms (code-soup), a python package for a working virtual playground (fencing), and a website for the same. We expect the contributors to have some experience with Python, Deep Learning and preferably Pytorch along with an interest in research. Web Developers are also welcome to contribute to the website.
+
+
+#### Deliverables
+Current priorities include reading these research papers in the various fields of deep learning like CV, NLP, RL, Privacy, and Safe AI and implementing them. Later on these will be used to build a package which will serve as the virtual playground for these algorithms. For now the website will serve as a landing page, but in further iterations we plan to deploy and demonstrate these attacks on it as well. Active contributors will get mentioned and duly credited.
+#### Mentors
+ - Somesh Singh, Devanshu Shah, Harshit Pandey, Gunjan Chhablani, Abheesht Sharma, Mehul Rastogi
+
 ---
 
 ## Previous Editions
