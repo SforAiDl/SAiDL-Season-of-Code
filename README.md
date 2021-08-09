@@ -16,10 +16,13 @@ The SSoC Program aims to offer the following -
   
 ## Getting involved
 
-You can apply for at most 2 projects. We'll be using slack as the platform for all the communication related to SSoC and the projects. Deadline for filling the application is **16th August 2021, 23:59 IST**.
+1. Go over the list of projects given below. Looking up the terms listed in the _Relevent Topics_ sections will help you get an idea of what the project will be about.
+2. Select at most 2 projects that you are interested in.
+3. Apply through the registration form at [forms.gle/vdXppjpejtvhxFL3A](https://forms.gle/vdXppjpejtvhxFL3A)
+4. Join the Slack Workspace at [bit.ly/ssoc-slack](https://bit.ly/ssoc-slack)
+5. Post an introduction in the #introductions channel with relevent background and what projects you are looking to constribute to.
 
-Link to Registration Form: [forms.gle/vdXppjpejtvhxFL3A](https://forms.gle/vdXppjpejtvhxFL3A)
-Link to Slack Workspace: [bit.ly/ssoc-slack](https://bit.ly/ssoc-slack)
+Note that all communications will be conveyed over Slack so make sure to join the workspace. Deadline for filling the application is **16th August 2021, 23:59 IST**.
 
 ## Projects
 
