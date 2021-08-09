@@ -34,7 +34,7 @@ Causal Inference aims to determine the independent effect of one or more phenome
 
 #### Goals
 
-#### Relevent Topics
+#### Relevant Topics
 
 #### Mentors
 
@@ -72,7 +72,7 @@ Depending on the progress, visualization methods for CNNs and the recently intro
 
 Participants will learn about self attention and transformer architectures - methods which are at the heart of a lot of computer vision research these days. Contributors will work towards developing an open-source PyTorch library which contains implementations of vision transformers and makes their visualization methods easy-to-use. 
 
-#### Relevent Topics
+#### Relevant Topics
 
 Vision transformers, self-attention, visualization, interpretability, CNNs, MLP-Mixer
 
@@ -92,7 +92,7 @@ JAX is a Python framework with near identical API to NumPy with three key charac
 
 This project aims to implement various Meta Learning methods that have been proposed in the past decades (the basic idea is much older though!) and benchmark them on few-shot learning tasks.  Contributors will be introduced to basic methods in Meta Learning as well as the JAX framework and will work towards building a modular extensible and well documented library of these methods.
 
-#### Relevent Topics
+#### Relevant Topics
 
 Meta learning, Omniglot dataset, MAML, Siamese Networks, Conditional Neural Processes, Neural Turing Machines
 
