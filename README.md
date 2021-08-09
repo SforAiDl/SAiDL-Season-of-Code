@@ -2,8 +2,8 @@
 
 ## Getting involved
 
-Project descriptions and sign up form coming soon. Stay tuned!
-
+Link to Registration Form: https://forms.gle/vdXppjpejtvhxFL3A  
+Link to Slack Workspace: https://bit.ly/ssoc-slack
 ## Projects
 
 ### 1. Causal Inference in Time Series 
