@@ -2,7 +2,7 @@
 
 ## Getting involved
 
-Link to Registration Form: https://forms.gle/vdXppjpejtvhxFL3A
+Link to Registration Form: https://forms.gle/vdXppjpejtvhxFL3A  
 Link to Slack Workspace: https://bit.ly/ssoc-slack
 ## Projects
 
