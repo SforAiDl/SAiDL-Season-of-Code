@@ -1,6 +1,22 @@
 # SAiDL Season of Code 2021
 
+Working on projects that focus on cutting edge topics along with a community of peers really helps in bolstering one’s confidence and provides an exciting envrionment to gain new skills. Learning to write good code only comes through practice, and doing so with a community can really fast track your progress. We at SAiDL are organizing the second edition of SAiDL Season of Code as a part of which we'll be undertaking 5 open source projects over the coming Winter (Mid August - Decemeber 2021) focusing on a wide range of topics in Artificial Intelligence.
+
+The projects are implementation focused and will be structured around developing a specific tool or implementing a collection alogrithms related to the project focus. Each project will have an associated group of mentors who will guide the participants in learning new topics and developing code.
+
+Everyone with an interest in AI and developing open source software is welcome to join and no background knowledge about the specific topic of the project is necessary. However a basic familiarity with a programming lanaguage (e.g. C, Python, Java etc...) along with the knowledge of the basics of Machine Learning is expected.
+
+The SSoC Program aims to offer the following -
+
+- An opportunity to dive into cutting edge AI with a hands on open source project.
+- Participants who make significant contributions to the project will given the chance to join SAiDL.
+- Projects which make significant progress over the next few months may lead to publications.
+- Chance to interact with a diverse group of individuals with interest and experience in AI.
+- A friendly environment to develop both a skillset in Open Source Development and Research.
+  
 ## Getting involved
+
+You can apply for at most 2 projects. We'll be using slack as the platform for all the communication related to SSoC and the projects. Deadline for filling the application is **16th August 2021, 23:59 IST**.
 
 Link to Registration Form: [forms.gle/vdXppjpejtvhxFL3A](https://forms.gle/vdXppjpejtvhxFL3A)
 Link to Slack Workspace: [bit.ly/ssoc-slack](https://bit.ly/ssoc-slack)
