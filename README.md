@@ -33,8 +33,10 @@ Note that all communications will be conveyed over Slack so make sure to join th
 Causal Inference aims to determine the independent effect of one or more phenomena, which are components of a larger system. Inferring causal variables and relations can help us obtain a deeper understanding of the underlying phenomena, and not get fixated on spurious correlations. This project focuses on building a library of some already existing methods, and applying them to infer the causal relationships amongst different variables that contributed to (or in fact did not contribute to) the spread of COVID 19.
 
 #### Goals
+Contributors will learn about the different notions of causality wrt time series data. The project will aim to certain classical and alternative parametric and non parametric methods for inferring causality measures for time series data, utilising machine learning for model explanations.
 
 #### Relevant Topics
+Granger Causality, F tests, Graphical approaches, causal graph search
 
 #### Mentors
 
