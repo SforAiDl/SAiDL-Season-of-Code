@@ -40,7 +40,7 @@ Granger Causality, F tests, Graphical approaches, causal graph search
 
 #### Mentors
 
-- Rishabh Patra, Vedant Shah, Vishwa Shah
+- Rishabh Patra, Sampreet Arthi, Vishwa Shah
 
 ### 2. Program Synthesis with Julia
 
@@ -80,7 +80,7 @@ Vision transformers, self-attention, visualization, interpretability, CNNs, MLP-
 
 #### Mentors
 
-- Neelay Shah, Sampreet Arthi, Shrey Pandit
+- Neelay Shah, Vedant Shah, Shrey Pandit
 
 ### 4. Meta Learning with JAX
 
