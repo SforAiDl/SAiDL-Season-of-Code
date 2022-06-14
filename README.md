@@ -115,6 +115,7 @@ Python, Numpy, PyTorch, PyTorch-Lightning
 - Shreyas Bhat
 - Mehul Rastogi 
 - Somesh Singh
+
 ---
 
 ## Previous Editions
