@@ -1,6 +1,6 @@
 # SAiDL Season of Code 2022
 
-Working on projects that focus on cutting edge topics along with a community of peers really helps in bolstering one’s confidence and provides an exciting envrionment to gain new skills. Learning to write good code only comes through practice, and doing so with a community can really fast track your progress. We at SAiDL are organizing the second edition of SAiDL Season of Code as a part of which we'll be undertaking 3 open source projects over the coming Summer focusing on a wide range of topics in Artificial Intelligence.
+Working on projects that focus on cutting edge topics along with a community of peers really helps in bolstering one’s confidence and provides an exciting envrionment to gain new skills. Learning to write good code only comes through practice, and doing so with a community can really fast track your progress. We at SAiDL are organizing the third edition of SAiDL Season of Code as a part of which we'll be undertaking 3 open source projects over the coming summer focusing on a wide range of topics in Artificial Intelligence.
 
 The projects are implementation focused and will be structured around developing a specific tool or implementing a collection alogrithms related to the project focus. Each project will have an associated group of mentors who will guide the participants in learning new topics and developing code.
 
