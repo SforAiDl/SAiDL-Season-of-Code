@@ -113,7 +113,8 @@ Python, Numpy, PyTorch, PyTorch-Lightning
 - Alish Dipani
 - Rishav Mukherji
 - Shreyas Bhat
-
+- Mehul Rastogi 
+- Somesh Singh
 ---
 
 ## Previous Editions
