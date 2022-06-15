@@ -81,6 +81,7 @@ Python, Numpy, PyTorch
 - Neelay Shah
 - Alish Dipani
 - Soham Chitnis
+- Ashmit Khandelwal
 
 ### 3. Exploring Deep Learning models for Visual Saliency Prediction
 
